@@ -7,7 +7,7 @@ This is a test parser for extracting newses and saving them to a CSV file using 
   You can choose which page to which data will be collected in the `.env` file.
 
 - **Asynchronous translation into Russian**:  
-  The parser is also capable of synchronously translating all incoming text with 'p' and 'li' tags.
+  The parser is also capable of synchronously translating all incoming text with `p` and `li` tags.
 
 - **Further improvements**:  
   In the future, parsing options for other sites will be added, as well as the ability to parse from many sites at the same time.
